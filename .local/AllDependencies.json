@@ -1300,9 +1300,9 @@
     "restore": {
       "projectUniqueName": "Generate_Yearly_Report_Dispatcher",
       "projectName": "Generate_Yearly_Report_Dispatcher",
-      "projectPath": "C:\\Users\\valor\\Desktop\\UiPath Advanced Training\\Generate_Yearly_Report_Dispatcher\\.local",
+      "projectPath": "D:\\Github\\UiPath Academy\\Generate-Yearly-Report-Dispatcher\\.local",
       "packagesPath": "C:\\Users\\valor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valor\\Desktop\\UiPath Advanced Training\\Generate_Yearly_Report_Dispatcher\\.local"
+      "outputPath": "D:\\Github\\UiPath Academy\\Generate-Yearly-Report-Dispatcher\\.local"
     },
     "frameworks": {
       "net461": {
